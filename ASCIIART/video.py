@@ -2,7 +2,6 @@ import cv2, os
 from PIL import Image
 from ffpyplayer.player import MediaPlayer
 import pygame, sys
-import multiprocessing
 
 def resize_frame(img, w) -> Image:
     width, height = img.size
