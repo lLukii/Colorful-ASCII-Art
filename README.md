@@ -10,7 +10,7 @@ can keep up with the audio. These numbers may vary however depending on your CPU
 
 
 # Examples: 
-Input: <br/>
 ![Google__G__logo svg](https://github.com/lLukii/Colorful-ASCII-Art/assets/105329087/5b71fff9-e8f5-4287-b84a-5aa4dc7c6ad2)
-Output: 
 <img width="726" alt="Screenshot 2024-03-22 at 10 38 50 AM" src="https://github.com/lLukii/Colorful-ASCII-Art/assets/105329087/84eb45fa-daae-43d5-8636-58939b82ab79">
+
+
